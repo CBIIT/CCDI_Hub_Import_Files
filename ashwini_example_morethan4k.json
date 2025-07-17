@@ -4018,5 +4018,9 @@
     "TARGET-50-PALMSA",
     "TARGET-50-PALNDB"
   ]
-}
- ]
+},
+ {
+    "study_id": "phs002517",
+    "participant_id": ["PT_00G007DM", "PT_02J5CWN5", "PT_02MVZZSW"]
+  }
+]
