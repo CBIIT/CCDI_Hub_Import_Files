@@ -4019,4 +4019,13 @@
     "TARGET-50-PALNDB"
   ]
 }
+  {
+  "study_id": "phs000463",
+  "participant_id": ["TARGET-10-DCC001",
+    "TARGET-10-DCC002",
+    "TARGET-10-PAIXDK",
+    "TARGET-10-PAIXFI",
+    "TARGET-10-PAIXFN"
+  ]
+}
 ]
